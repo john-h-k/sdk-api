@@ -80,7 +80,7 @@ Subobject type is <a href="https://docs.microsoft.com/windows/desktop/api/d3d12/
 
 ### -field D3D12_STATE_SUBOBJECT_TYPE_SUBOBJECT_TO_EXPORTS_ASSOCIATION
 
-Subobject type is <a href="https://msdn.microsoft.com/en-us/library/Mt830409(v=VS.85).aspx">D3D12_SUBOBJECT_TO_EXPORTS_ASSOCIATION</a>.
+Subobject type is <a href="/windows/win32/api/d3d12/ns-d3d12-d3d12_subobject_to_exports_association">D3D12_SUBOBJECT_TO_EXPORTS_ASSOCIATION</a>.
 
 ### -field D3D12_STATE_SUBOBJECT_TYPE_DXIL_SUBOBJECT_TO_EXPORTS_ASSOCIATION
 
